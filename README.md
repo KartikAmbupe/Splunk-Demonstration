@@ -6,6 +6,26 @@ Splunk is a powerful platform for searching, monitoring, and analyzing machine-g
 
 ---
 
+## Downloading and Installing Splunk  
+
+### 📥 Download Splunk  
+1. Go to the [Splunk official website](https://www.splunk.com/en_us/download.html).  
+2. Select **Splunk Enterprise** (Free Trial available).  
+3. Choose the appropriate version for your system (Windows/Linux/Mac).  
+4. Sign in or create a Splunk account to download.  
+
+### 🛠️ Install Splunk  
+1. Run the downloaded `.msi` installer.  
+2. Follow the setup wizard and use default settings.  
+3. Create an **admin username and password** (store them securely).  
+4. Enable the **"Launch Splunk after installation"** option and complete the setup.  
+
+### 🌐 Log in to Splunk Web  
+1. Open a web browser and visit: http://localhost:8000 
+2. Enter the admin credentials created during installation.  
+3. The Splunk dashboard should now be accessible. 
+
+
 ## Functionalities Demonstrated
 
 ### 1. Login Attempt Tracking
