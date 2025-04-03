@@ -20,6 +20,7 @@ Splunk is a powerful platform for searching, monitoring, and analyzing machine-g
    | table _time, Account_Name, src_ip, Status
    ```
 3. Create a visualization using a timechart to observe trends in login activity.
+
 ![image](https://github.com/user-attachments/assets/9a3f66d1-2b60-4a60-8234-031887fadc3f)
 
 ---
@@ -35,6 +36,7 @@ Splunk is a powerful platform for searching, monitoring, and analyzing machine-g
    | table _time, Account_Name, Object_Name, Access_Mask
    ```
 3. Analyze which files are accessed and by whom.
+
 ![image](https://github.com/user-attachments/assets/4f48ee48-8de6-43ee-970a-852654ca45cd)
 
 ---
@@ -51,8 +53,8 @@ Splunk is a powerful platform for searching, monitoring, and analyzing machine-g
    | table _time, message, severity
    ```
 4. Generate reports or dashboards for visualization.
-![image](https://github.com/user-attachments/assets/61e85b13-1108-4a8e-9f4e-d871632bdd1b)
 
+![image](https://github.com/user-attachments/assets/61e85b13-1108-4a8e-9f4e-d871632bdd1b)
 
 
 
